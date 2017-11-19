@@ -1,2 +1,5 @@
 # hello-world
-Just anothet repository
+
+Hi humans!
+
+It's just a test!
